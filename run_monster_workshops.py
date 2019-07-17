@@ -19,4 +19,3 @@ class Monster():#
 
 # make monsters do some noises or something
 
-HOMEWORK!!
