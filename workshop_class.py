@@ -4,8 +4,8 @@
 
 class Workshop():
 
-    def __init__(self, name_wshp, teacher = 'Not assigned'):        #parameters or how it 'looks like'
-        self.workshop.name = name_wshp
+    def __init__(self, name_wrkshpp, teacher = 'Not assigned'):        #parameters or how it 'looks like'
+        self.workshop.name = name_wrkshpp
         self.workshop.teacher = teacher
         self.workshop.monster_attendee_list = []
 
